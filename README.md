@@ -1,9 +1,44 @@
-- 👋 Hi, I’m @abeni-al7 a Software Engineer mainly specializing in Django, Flask, NodeJS, ExpressJS, MongoDB and MySQL with a backend heavy tech stack
-- 👀 I’m interested in working with Python-based frameworks due to the rich ecosystem Python provides to allow developers to solve problems quickly.
-- 🌱 I’m currently working on front-end development as well with ReactJS
+<div align="center">
 
+# 👋 Hi, I'm Abenezer (Abeni)!
 
-<!---
-abeni-al7/abeni-al7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe that problem solving is the core part of Software Engineering no matter which tech stack is used. Eventhough I have used different languages and frameworks for different tasks based on my needs, I love Python and I spend most of my time programming in Python. I mainly specialize in backend development, although I dabble in front-end development here and there. Contact me for any of your questions about me, for collaboration opportunities or if you need help with your projects. 🚀
+
+</div>
+
+---
+
+### 🛠️ Tech Stack  
+**Languages & Tools:**  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
+
+**Databases:**  
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+
+---
+
+### 📊 GitHub Insights
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide=html,css)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=highcontrast)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=[YourUsername]&theme=react-dark)
+
+</div>
