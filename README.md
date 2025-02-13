@@ -33,12 +33,12 @@ I believe that problem solving is the core part of Software Engineering no matte
 
 ### 📊 GitHub Insights
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=abeni-al7&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abeni-al7&layout=compact&theme=dark&hide=html,css)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=highcontrast)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeni-al7&theme=highcontrast)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=[YourUsername]&theme=react-dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abeni-al7&theme=react-dark)
 
 </div>
