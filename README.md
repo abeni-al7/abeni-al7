@@ -39,6 +39,6 @@ I believe that problem solving is the core part of Software Engineering no matte
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeni-al7&theme=highcontrast)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abeni-al7&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abeni-al7&theme=react-dark&hide_border=true&area=true)
 
 </div>
