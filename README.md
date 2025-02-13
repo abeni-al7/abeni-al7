@@ -4,6 +4,8 @@
 
 I believe that problem solving is the core part of Software Engineering no matter which tech stack is used. Eventhough I have used different languages and frameworks for different tasks based on my needs, I love Python and I spend most of my time programming in Python. I mainly specialize in backend development, although I dabble in front-end development here and there. Contact me for any of your questions about me, for collaboration opportunities or if you need help with your projects. 🚀
 
+![Profile Views](https://komarev.com/ghpvc/?username=abeni-al7&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/abeni-al7?style=social)
 </div>
 
 ---
@@ -40,5 +42,14 @@ I believe that problem solving is the core part of Software Engineering no matte
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeni-al7&theme=highcontrast)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abeni-al7&theme=react-dark&hide_border=true&area=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=abeni-al7&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezeralebachew3)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:abenezeralebachew3@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+251929341497)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/abeni_al7)
 
 </div>
