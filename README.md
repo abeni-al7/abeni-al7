@@ -13,7 +13,7 @@ I believe that problem solving is the core part of Software Engineering no matte
 ### 🛠️ Tech Stack  
 **Languages & Tools:**  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -43,7 +43,6 @@ I believe that problem solving is the core part of Software Engineering no matte
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abeni-al7&theme=react-dark&hide_border=true&area=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=abeni-al7&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
 
 ### 🌐 Connect with Me
 
