@@ -4,7 +4,7 @@
 
 I believe that problem solving is the core part of Software Engineering no matter which tech stack is used. Eventhough I have used different languages and frameworks for different tasks based on my needs, I love Python and I spend most of my time programming in Python. I mainly specialize in backend development, although I dabble in front-end development here and there. Currently, I am building more and more projects with Go making me versatile across technologies. Contact me for any of your questions about me, for collaboration opportunities or if you need help with your projects. 🚀
 
-My Website: [Abeni Codes](https://abeni-codes.netlify.app)
+My Website: <a href="https://abeni-codes.netlify.app" target="_blank" rel="noopener noreferrer">Abeni Codes</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abeni-al7&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/abeni-al7?style=social)
